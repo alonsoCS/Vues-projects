@@ -1,7 +1,6 @@
 Vue.component('hijo', {
     template: //html
-        `<div class="p-5 bg-dark text-white">
-            <h2>Componente Padre</h2>
-            <hijo></hijo>
+        `<div class="p-5 bg-success">
+            <h4>Componente Hijo</h4>
         </div>`
 })
