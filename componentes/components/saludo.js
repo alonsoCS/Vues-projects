@@ -1,7 +1,7 @@
 Vue.component('saludo', {
     template: `
         <div>
-            <h1>{{saludo}}</h1>
+            <h1>{{saludo}}-como estas</h1>
             <h3>{{otro}}</h3>
         </div>`,
     data() {
